@@ -1,9 +1,25 @@
 {
   "Junior Male": {
-    "Madhu Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_1.jpg"
+    "Madh Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_1.jpg",
+    "Spelling Bee": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_6.jpg"
+  },
+  "Secondary Male": {
+    "Poem Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_9.png"
+  },
+  "Senior Male": {
+    "Malappattu": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_5.jpg",
+    "Urdu Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_8.png",
+    "Risala Review": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_7.png"
+  },
+  "Junior Campus Male": {
+    "Madh Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_4.jpg",
+    "Elocution English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_10.png"
   },
   "Secondary Campus Male": {
     "Elocution English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_2.jpg",
     "Urdu Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_3.jpg"
+  },
+  "Secondary Campus Female": {
+    "Social Tweet English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_11.png"
   }
 }
