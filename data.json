@@ -13,6 +13,7 @@
     "Pencil Drawing": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_38.jpg",
     "Jalachayam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_39.jpg",
     "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_67.jpg",
+    "Story Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_74.jpg",
     "Spelling Bee": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_44.jpg"
   },
   "Secondary Female": {
@@ -20,7 +21,8 @@
     "Poem Recitation": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_68.jpg",
     "Poem Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_20.png",
     "Essay Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_27.png",
-    "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_53.png"
+    "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_53.png",
+    "Caligraphy Arabic": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_73.jpg"
   },
   "Secondary Male": {
     "Urdu Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_8.png",
@@ -31,6 +33,7 @@
     "Social Tweet English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_34.jpg",
     "Elocution English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_50.png",
     "Mappilapattu": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_65.jpg",
+    "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_75.jpg",
     "Translation - Malayalam to English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_57.png"
   },
   "Senior Female": {
@@ -39,7 +42,9 @@
     "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_37.jpg",
     "Story Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_56.png",
     "Haiku Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_54.png",
-    "Social Tweet Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_61.jpg"
+    "Social Tweet Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_61.jpg",
+    "Essay Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_76.jpg",
+    "Risala Review Writing": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_71.jpg"
   },
   "Senior Male": {
     "News Writing": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_47.png",
@@ -75,10 +80,12 @@
     "Collage": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_51.jpg"
   },
   "General Campus Male": {
-    "Collage": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_55.jpg"
+    "Collage": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_55.jpg",
+    "Coral Reading": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_77.jpg"
   },
   "Secondary Campus Female": {
     "Poem Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_28.png",
+    "Essay English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_72.jpg",
     "Social Tweet English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_11.png"
   },
   "General Female": {
@@ -89,6 +96,7 @@
     "Magazine Design": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_19.png",
     "Qaseeda": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_30.png",
     "Nasheeda": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_52.png",
+    "Group Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_78.jpg",
     "Qawali": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_46.png"
   },
   "Junior Campus Female": {
