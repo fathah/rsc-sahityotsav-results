@@ -12,10 +12,12 @@
   "Junior Female": {
     "Pencil Drawing": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_38.jpg",
     "Jalachayam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_39.jpg",
+    "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_67.jpg",
     "Spelling Bee": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_44.jpg"
   },
   "Secondary Female": {
     "Social Tweet English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_49.png",
+    "Poem Recitation": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_68.jpg",
     "Poem Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_20.png",
     "Essay Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_27.png",
     "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_53.png"
@@ -28,6 +30,7 @@
     "Essay Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_40.jpg",
     "Social Tweet English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_34.jpg",
     "Elocution English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_50.png",
+    "Mappilapattu": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_65.jpg",
     "Translation - Malayalam to English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_57.png"
   },
   "Senior Female": {
@@ -48,6 +51,9 @@
     "Poem Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_22.png",
     "Madh Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_45.png",
     "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_42.jpg",
+    "Mappilapattu": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_66.jpg",
+    "Essay Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_69.jpg",
+    "Poem Reading": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_70.jpg",
     "Haiku": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_62.jpg"
   },
   "Junior Campus Male": {
@@ -66,10 +72,10 @@
     "Essay English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_41.jpg"
   },
   "General Campus Female": {
-    "Collage": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_51.png"
+    "Collage": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_51.jpg"
   },
   "General Campus Male": {
-    "Collage": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_55.png"
+    "Collage": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_55.jpg"
   },
   "Secondary Campus Female": {
     "Poem Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_28.png",
