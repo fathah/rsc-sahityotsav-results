@@ -18,13 +18,13 @@
   },
   "Secondary Female": {
     "Social Tweet English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_49.png",
-    "Poem Recitation": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_68.jpg",
     "Poem Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_20.png",
     "Essay Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_27.png",
     "Story Writing Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_53.png",
     "Caligraphy Arabic": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_73.jpg"
   },
   "Secondary Male": {
+    "Poem Recitation": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_68.jpg",
     "Urdu Song": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_8.png",
     "Poem Writing English": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_9.png",
     "Elocution Malayalam": "https://wc-microservice-files.s3.ap-south-1.amazonaws.com/user_656/result_35.jpg",
